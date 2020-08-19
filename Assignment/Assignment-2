@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-2</title>
+</head>
+<font face="Arial" color="Black" align="center">
+<body>
+    
+    <header>
+        <h1>HTML5 WEB TEMPLATES</h1>
+    </header>
+</font>
+    <font face="Arial" color="Black" align="left" size="5">
+    <div> <b>
+        HOME &nbsp; 
+        EXAMPLES &nbsp;
+        A PAGE &nbsp;
+        ANOTHER PAGE &nbsp;
+        CONTACT US &nbsp;
+     </div> </b>
+     
+     <h2> Welcome to the colour_green template </h2> 
+     <p>
+         Lorem Ipsum is a simple dummy text of the printing and typesetting industry. Lorem Ipsum has been
+         industry's standard dummy text ever since 1500s, when an unknown printer took a gallery of type
+         and scrambled it to make a type specimen book. It was survived not only five centuries, but also the 
+         leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with 
+        the release of Letrashet sheets containing Lorem Ipsum passages, and more recently with desktop
+        publishing software like Aldus PageMaker including version of Lorem Ipsum.
+         </p> 
+         <p>
+             This template is written entirely in HTML5 and CSS, and we can be validated using the links the links in the footer.  
+            </p>
+    <p>
+        You can view more free HTML5 web templates here.
+    </p>
+    <p>
+        This templates is a fully functional 5 page website, with a page that gives examples of all styles 
+        available with this design. 
+    </p>
+<h3> Browser Compatiability </h3>
+<p>
+    Internet Explorer 8
+</p>
+<p>    
+Internet Explorer 7
+</p> 
+<p>    
+Firefox 3.5
+</p>
+<p>
+    Google Chrome 6
+</p>
+<p></p>    
+Safari 4
+</p> 
+<font face="Arial" color="Black" align="center"> 
+    <h3> Latest News </h3>
+</font>
+<p> New Website Launched </p>
+January 1st 2010 
+<p>2010 sees the redesign of our website. Take a look around and let us know what you know.</p>
+<p>Read more</p>
+<font face="Arial" color="Black" align="center">
+<h4> Useful Information</h4>
+</font>
+<p>Lorem Ipsum</p>
+<font face="Arial" color="Black" align="center">
+   <h5><p>Search</p></h5>
+</font>
+
+<font face="Arial" color="Black" align="center">
+<footer> 
+    COPYRIGHT &copy; COLOUR_GREEN | HTML5 | CSS | DESIGN FFROM HTML5WEBTEMPLATES.CO.UK
+</footer>    
+</body>
+</html>
