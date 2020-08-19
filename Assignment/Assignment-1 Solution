@@ -1,0 +1,56 @@
+<html>
+
+<head>
+    <meta name="Author" content="Krish"/>
+    <title>My CV </title>
+</head>
+
+    <body bgcolor="Red"
+    <font face="Arial" color="Black" align="centre" size="24">
+        <h1>
+            <u>Curriculum Vitae</u>
+        </h1>
+
+    </font>
+    <font color="Orange" face="Arial" align="left" size="24">
+    <h4>
+        &quot; &lt; KRISH AGARWAL &gt; &quot;
+    </h4>
+</font>
+</font face="Times New Roman" size="16">
+    <i><b><h2>Contact</h2></b></i>
+    <br> 1234567890
+    <br>
+    <i><b><h2>Email</h2></b></i>
+    <br> xyz123@hotmail.com
+    <br>
+    <i><b><h2>Address</h2></b></i>
+    <br> Sahibabad, Ghaziabad, Uttar Pradesh, India
+    <br>
+    <i><b><h2>Skills</h2></b></i>
+    <br> Python Programme, HTML, Animation, Movie Making
+    <br>
+    <i><b><h2>Education</h2></b></i>
+    <br> Class 10th ST.Thomas School, Sahibabad
+    <br> Vidyamandir Classes 
+    <br>
+    <i><b><h2>Hobbies</h2></b></i>  
+    <br> Reading, Helping People in Need, Coding
+    <br>
+    <i><b><h2>Carrer Goals</h2></b></i>
+    <br> To study in Massachusetts Institute of Technology (MIT) and become computer engineer and ethical Hacking
+    <br>
+    <i><b><h2>Achievements</h2></b></i>
+    <br>
+    <ol>
+        <li>Topped the school in 6th-9th in Science Exhibition</Em></li>
+        <li>Topper of School exam</li>
+        <li>Scored 98% in class 9th</li>
+        <li>Recipient of various school Awards</li>
+        <li>Gold Medalist in SAARC 2014 in Taekwondo</li>
+    </ol>
+    <br>
+</font>
+</body>
+
+</html>
